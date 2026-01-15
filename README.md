@@ -17,8 +17,8 @@
 ###  Academic & Professional Profile
 I am currently in my final year of my **Diploma in Computer Engineering**, specializing in building high-performance digital solutions. My daily routine oscillates between architecting fluid mobile experiences and optimizing data structures.
 
-* ** App Development:** Crafting cross-platform interfaces using **Flutter, Dart, and Kotlin**.
-* ** Problem Solving:** Dedicated to **DSA in Java**, focusing on time complexity and efficiency.
+* **App Development:** Crafting cross-platform interfaces using **Flutter, Dart, and Kotlin**.
+* **Problem Solving:** Dedicated to **DSA in Java**, focusing on time complexity and efficiency.
 
 ---
 
