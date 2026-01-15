@@ -7,32 +7,32 @@
 <img src="https://komarev.com/ghpvc/?username=visheshkamble&label=PORTFOLIO+VIEWS&color=444c56&style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Final_Year_Diploma_Student-blue?style=flat-square&color=444c56" />
 
-### Engineering Scalable Applications & Solving Complex Algorithms
+### Currently Engineering Scalable Applications & Solving Complex Algorithms
 *Meticulous Developer focused on Mobile Architecture and Backend Efficiency.*
 
 ---
 
 </div>
 
-### 🎓 Academic & Professional Profile
+###  Academic & Professional Profile
 I am currently in my final year of my **Diploma in Computer Engineering**, specializing in building high-performance digital solutions. My daily routine oscillates between architecting fluid mobile experiences and optimizing data structures.
 
-* **🚀 App Development:** Crafting cross-platform interfaces using **Flutter, Dart, and Kotlin**.
-* **🧩 Problem Solving:** Dedicated to **DSA in Java**, focusing on time complexity and efficiency.
+* ** App Development:** Crafting cross-platform interfaces using **Flutter, Dart, and Kotlin**.
+* ** Problem Solving:** Dedicated to **DSA in Java**, focusing on time complexity and efficiency.
 
 ---
 
-### 🛠️ Technical Ecosystem
+###  Technical Ecosystem
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 Mobile Engineering</h4>
+      <h4>📱 Mobile Development</h4>
       <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=4" />
       <p><small>Building native-feel UI/UX with state management.</small></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏗️ Algorithms & Backend</h4>
+      <h4>Algorithms & Backend</h4>
       <img src="https://skillicons.dev/icons?i=java,python,spring,linux&perline=4" />
       <p><small>Solving DSA and building robust API logic.</small></p>
     </td>
@@ -53,10 +53,10 @@ I am currently in my final year of my **Diploma in Computer Engineering**, speci
 
 ---
 
-### 🤝 Professional Connection
+###  Professional Connection
 <div align="center">
 
-<a href="https://linkedin.com/in/visheshkamble" target="_blank">
+<a href="https://www.linkedin.com/in/vishesh-kamble-143505375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
