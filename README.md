@@ -15,11 +15,10 @@
 </div>
 
 ### 🎓 Academic & Professional Profile
-I am currently in my final year of my **Diploma in Engineering**, specializing in building high-performance digital solutions. My daily routine oscillates between architecting fluid mobile experiences and optimizing data structures.
+I am currently in my final year of my **Diploma in Computer Engineering**, specializing in building high-performance digital solutions. My daily routine oscillates between architecting fluid mobile experiences and optimizing data structures.
 
 * **🚀 App Development:** Crafting cross-platform interfaces using **Flutter, Dart, and Kotlin**.
-* **🧩 Problem Solving:** 500+ hours dedicated to **DSA in Java**, focusing on time complexity and efficiency.
-* **🛠️ Goal:** Transitioning into a professional role where I can build production-ready, scalable systems.
+* **🧩 Problem Solving:** Dedicated to **DSA in Java**, focusing on time complexity and efficiency.
 
 ---
 
@@ -54,20 +53,6 @@ I am currently in my final year of my **Diploma in Engineering**, specializing i
 
 ---
 
-### 📈 Development Metrics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=visheshkamble&show_icons=true&theme=distinguished&hide_border=true&title_color=f0f6fc&icon_color=79c0ff&text_color=8b949e" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshkamble&layout=compact&theme=distinguished&hide_border=true&title_color=f0f6fc&text_color=8b949e" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshkamble&theme=distinguished&hide_border=true&stroke=f0f6fc&ring=79c0ff&fire=79c0ff&currStreakLabel=f0f6fc" width="85%" />
-</div>
-
----
-
 ### 🤝 Professional Connection
 <div align="center">
 
@@ -75,7 +60,7 @@ I am currently in my final year of my **Diploma in Engineering**, specializing i
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your.email@example.com">
+<a href="mailto:visheshy2k17@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
