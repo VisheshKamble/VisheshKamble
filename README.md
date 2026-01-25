@@ -65,8 +65,6 @@ I am currently in my final year of my **Diploma in Computer Engineering**, speci
 </a>
 
 <br/><br/>
-
-*"The best way to predict the future is to implement it."*
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
 </div>
