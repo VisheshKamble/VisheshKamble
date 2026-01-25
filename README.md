@@ -27,7 +27,7 @@ I am currently in my final year of my **Diploma in Computer Engineering**, speci
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 Mobile Development</h4>
+      <h4>Mobile Development</h4>
       <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=4" />
       <p><small>Building native-feel UI/UX with state management.</small></p>
     </td>
@@ -39,12 +39,12 @@ I am currently in my final year of my **Diploma in Computer Engineering**, speci
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗄️ Data Management</h4>
+      <h4>Data Management</h4>
       <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb,postman&perline=4" />
       <p><small>Designing relational and cloud-based schemas.</small></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Web & Tools</h4>
+      <h4>Web & Tools</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=4" />
       <p><small>Version control and modern web foundations.</small></p>
     </td>
